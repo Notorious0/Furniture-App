@@ -1,0 +1,125 @@
+    {
+        "products": [
+        {
+            "id": 1,
+            "image1": "https://ideacdn.net/shop/al/13/myassets/products/275/koltuk-takimi-jk897_min.jpg?revision=1718984944",
+            "image2": "https://ideacdn.net/shop/al/13/myassets/products/275/koltuk-takimi-jk897_min.jpg?revision=1718984944",
+            "image3": "https://ideacdn.net/shop/al/13/myassets/products/275/koltuk-takimi-jk896_min.jpg?revision=1718984944",
+            "name": "Bonita Koltuk Takımı",
+            "oldPrice": "15.000 TL",
+            "newPrice": "12.000 TL",
+            "description": "Takım İçeriği: 2 Ad. Üçlü Koltuk  ve 1 Ad. Tekli Koltuk'tan oluşmaktadır"
+        },
+        {
+            "id": 2,
+            "image1": "https://koctas-img.mncdn.com/mnpadding/600/600/ffffff/productimages/5000001384/5000001384_1_MC/8859728543794_1682746769835.jpg",
+            "image2": "https://koctas-img.mncdn.com/mnpadding/600/600/ffffff/productimages/5000001384/5000001384_2_MC/8859729100850_1682746770609.jpg",
+            "image3": "https://koctas-img.mncdn.com/mnpadding/600/600/ffffff/productimages/5000001384/5000001384_3_MC/8859728838706_1682746770365.jpg",
+            "name": "Gardez Prime Koltuk Takımı",
+            "oldPrice": "18.000 TL",
+            "newPrice": "15.000 TL",
+            "description": "Takım İçeriği: 2 Ad. Üçlü Koltuk ve 1 Ad. Tekli Koltuk'tan oluşmaktadır.İskelet: Fırınlanmış gürgen kullanılarak üretilmektedir."
+        },
+        {
+            "id": 3,
+            "image1": "https://ideacdn.net/shop/al/13/myassets/products/533/koltuk-112451_min.jpg?revision=1722856979",
+            "image2": "https://ideacdn.net/shop/al/13/myassets/products/533/koltuk-112452_min.jpg?revision=1722856979",
+            "image3": "https://ideacdn.net/shop/al/13/myassets/products/533/koltuk-112454_min.jpg?revision=1722856979",
+            "name": "Rabat Koltuk Takımı",
+            "oldPrice": "22.000 TL",
+            "newPrice": "20.000 TL",
+            "description": "Takım içeriği; 1 Ad. Üçlü koltuk, 1 Ad. Dörtlü koltuk (Ahşap Modüllü) ve 1 Ad. Tekli koltuk şeklinde gruplandırılmıştır.Döşeme: Akrilik bazlı, antibakteriyel temizlenebilir kumaşlar kullanılmaktadır"
+        },
+        {
+            "id": 4,
+            "image1": "https://ideacdn.net/shop/al/13/myassets/products/704/koltuk-takimi-529851_min.jpg?revision=1716376184",
+            "image2": "https://ideacdn.net/shop/al/13/myassets/products/704/koltuk-takimi-529852_min.jpg?revision=1716376184",
+            "image3": "https://ideacdn.net/shop/al/13/myassets/products/704/koltuk-takimi-529853_min.jpg?revision=1716376184",
+            "name": "Nirvana Koltuk Takımı",
+            "oldPrice": "25.000 TL",
+            "newPrice": "22.000 TL",
+            "description": "Takım İçeriği; 2 Ad. Üçlü Koltuk, 1 Ad. Tekli Koltuk ve 1 Ad. Ara Sehpa'dan oluşmaktadır."
+        },
+        {
+            "id": 5,
+            "image1": "https://koctas-img.mncdn.com/mnpadding/600/600/ffffff/productimages/5000684456/5000684456_1_MC/9043873005618_1709632868607.jpg",
+            "image2": "https://koctas-img.mncdn.com/mnpadding/600/600/ffffff/productimages/5000684456/5000684456_2_MC/9043873366066_1709632869352.jpg",
+            "image3": "https://koctas-img.mncdn.com/mnpadding/600/600/ffffff/productimages/5000684456/5000684456_3_MC/9043873234994_1709632869093.jpg",
+            "name": "Devin Koltuk Takımı",
+            "oldPrice": "27.000 TL",
+            "newPrice": "24.000 TL",
+            "description": "İskelet: Fırınlanmış gürgen kullanılarak üretilmektedir."
+        },
+        {
+            "id": 6,
+            "image1": "https://ideacdn.net/shop/al/13/myassets/products/747/koltuk-takimi-8719_min.jpg?revision=1717402426",
+            "image2": "https://ideacdn.net/shop/al/13/myassets/products/747/koltuk-takimi-8715_min.jpg?revision=1717402426",
+            "image3": "https://ideacdn.net/shop/al/13/myassets/products/747/koltuk-takimi-8718_min.jpg?revision=1717402426",
+            "name": "Hailey Koltuk Takımı",
+            "oldPrice": "30.000 TL",
+            "newPrice": "28.000 TL",
+            "description": "Takım; 4+3+1 parçalardan oluşmaktadır."
+        },
+        {
+            "id": 7,
+            "image1": "https://ideacdn.net/shop/al/13/myassets/products/771/koltuk-854793_min.jpg?revision=1717402522",
+            "image2": "https://ideacdn.net/shop/al/13/myassets/products/771/koltuk-854794_min.jpg?revision=1717402522",
+            "image3": "https://ideacdn.net/shop/al/13/myassets/products/771/koltuk-854792_min.jpg?revision=1717402522",
+            "name": "Akira Koltuk Takımı",
+            "oldPrice": "16.000 TL",
+            "newPrice": "14.000 TL",
+            "description": "Takım içeriği; 2 Ad. Üçlü Koltuk ve 1 Ad. Tekli Koltuk şeklinde gruplandırılmıştır."
+        },
+        {
+            "id": 8,
+            "image1": "https://koctas-img.mncdn.com/mnpadding/600/600/ffffff/productimages/5000001386/5000001386_1_MC/8859729428530_1682746771019.jpg",
+            "image2": "https://koctas-img.mncdn.com/mnpadding/600/600/ffffff/productimages/5000001386/5000001386_2_MC/8859729068082_1682746770578.jpg",
+            "image3": "https://koctas-img.mncdn.com/mnpadding/600/600/ffffff/productimages/5000001386/5000001386_4_MC/8859728511026_1682746769850.jpg",
+            "name": "Mirena Koltuk Takımı",
+            "oldPrice": "20.000 TL",
+            "newPrice": "18.000 TL",
+            "description": "Takım İçeriği; 2 Ad. Üçlü Koltuk ve 1 Ad. Berjerden oluşmaktadır."
+        },
+        {
+            "id": 9,
+            "image1": "https://koctas-img.mncdn.com/mnresize/600/600/productimages/1000498827/1000498827_1_MC/8836374790194_1685440942433.jpg",
+            "image2": "https://koctas-img.mncdn.com/mnresize/600/600/productimages/1000498827/1000498827_2_MC/8836374822962_1685440943013.jpg",
+            "image3": "https://koctas-img.mncdn.com/mnresize/600/600/productimages/1000498827/1000498827_3_MC/8836374855730_1685440942755.jpg",
+            "name":" Selmy Koltuk Takımı",
+            "oldPrice": "24.000 TL",
+            "newPrice": "22.000 TL",
+            "description": "Takım İçeriği; 2 Ad. Üçlü Koltuk ve 1 Ad. Berjerden oluşmaktadır."
+        },
+        {
+            "id": 10,
+            "image1": "https://ideacdn.net/shop/al/13/myassets/products/043/koltuk-takimi-549601_min.jpg?revision=1709975034",
+            "image2": "https://ideacdn.net/shop/al/13/myassets/products/043/koltuk-takimi-549603_min.jpg?revision=1709975034",
+            "image3": "https://ideacdn.net/shop/al/13/myassets/products/043/koltuk-takimi-549602_min.jpg?revision=1709975034",
+            "name": "Leyton Koltuk Takımı",
+            "oldPrice": "28.000 TL",
+            "newPrice": "26.000 TL",
+            "description": "Takım İçeriği; 1 Ad. Dörtlü Koltuk (Sehpalı), 1 Ad. Dörtlü Koltuk ve 1 Ad. Tekli Koltuk'tan oluşmaktadır."
+        },
+        {
+            "id": 11,
+            "image1": "https://ideacdn.net/shop/al/13/myassets/products/216/kose-koltuk-0h1_min.jpg?revision=1713862491",
+            "image2": "https://ideacdn.net/shop/al/13/myassets/products/216/kose-koltuk-0h8_min.jpg?revision=1713862491",
+            "image3": "https://ideacdn.net/shop/al/13/myassets/products/216/kose-koltuk-0h9_min.jpg?revision=1713862491",
+            "name": "Enigma Köşe Koltuk Takımı",
+            "oldPrice": "19.000 TL",
+            "newPrice": "17.000 TL",
+            "description": "Ürün seti; 1 Ad. Köşe Koltuk (1x Relax Modül, 1x Tek Oturum 90cm, 1x Sağ/Sol Kollu Modül 140cm), 1 Ad. 3'lü Kanepe ve 1 Ad. Berjer'den oluşmaktadır."
+        },
+        {
+            "id": 12,
+            "image1": "https://ideacdn.net/shop/al/13/myassets/products/042/koltuk-takimlari-9181872_min.jpg?revision=1714208145",
+            "image2": "https://ideacdn.net/shop/al/13/myassets/products/042/koltuk-takimlari-9181873_min.jpg?revision=1714208145",
+            "image3": "https://ideacdn.net/shop/al/13/myassets/products/042/koltuk-takimlari-9181875_min.jpg?revision=1714208145",
+            "name": "Destan Koltuk Takımı",
+            "oldPrice": "21.000 TL",
+            "newPrice": "19.000 TL",
+            "description": "Takım; 3K+3+1 şeklinde gruplandırılmıştır."
+        }
+        ]
+    }
+  

@@ -1,0 +1,31 @@
+/* SortBar.css */
+.sort-bar {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+    border-radius: 4px;
+    padding: 10px;
+  }
+  
+  .sort-bar-option {
+    margin: 0 10px;
+    padding: 10px 20px;
+    border-radius: 4px;
+    background-color: #ffffff;
+    color: #333;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s, color 0.3s;
+  }
+  
+  .sort-bar-option:hover {
+    background-color: #e0e0e0;
+  }
+  
+  .sort-bar-option.active {
+    background-color: cadetblue;
+    color: #fff;
+  }
+
+  

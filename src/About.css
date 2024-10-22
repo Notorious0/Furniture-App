@@ -1,0 +1,46 @@
+.about {
+    margin-top: 0; /* Üst boşluğu sıfırla */
+    width: 100%;
+    min-height: 100vh; /* Minimum yükseklik görünüm alanı kadar olacak */
+    background-color: #f9f9f9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url('../public/img/bg.webp');
+    background-size: cover;
+    background-position: center;
+    overflow: hidden; /* Dışa taşmaları gizle */
+  }
+  
+  .container {
+    width: 80%; /* Mobilde genişliği %90 yaparak ekran boyutuna uyum sağlar */
+    max-width: 600px;
+    max-height: 600px;
+    border: 2px solid cadetblue;
+    border-radius: 20px;
+    padding: 25px; /* İçerik etrafında boşluk ekler */
+    color: white;
+  }
+  
+  .container h1 {
+    margin-bottom: 10px; /* Başlık ve metin arasına boşluk ekler */
+  }
+  
+  .container p {
+    line-height: 1.6; /* Satır yüksekliğini artırarak daha fazla boşluk sağlar */
+    margin-bottom: 20px; /* Paragraflar arasına boşluk ekler */
+    font-size: 10px;
+  }
+  
+  .container ul li {
+    list-style-type: none;
+    line-height: 1.6;
+    margin-bottom: 5px;
+    font-size: 10px;
+  }
+  
+  
+  
+  
+
+  

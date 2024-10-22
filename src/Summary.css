@@ -1,0 +1,29 @@
+.summary {
+  display: flex;
+  justify-content: flex-end; /* Butonu sağa hizala */
+  padding: 20px;
+}
+
+.button {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  background-color: cadetblue;
+  color: #ffffff;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: rgb(119, 213, 216);
+}
+
+.button:disabled {
+  background-color: #aaa; /* Buton devre dışı olduğunda gri */
+  cursor: not-allowed; /* İmleci yasaklı imgeye değiştir */
+}
+
+
+  
+
+  

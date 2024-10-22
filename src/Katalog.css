@@ -1,0 +1,30 @@
+.katalog {
+    width: 100%;
+    min-height: 100vh; 
+    background-color: #f9f9f9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    box-sizing: border-box; 
+}
+
+.card-row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
+    max-width: 100%; 
+    box-sizing: border-box; 
+}
+
+@media (max-width: 480px) {
+    .katalog{
+        width: 100%;
+    }
+    .card-row {
+        width: 50%; 
+        max-width: 50%;
+        justify-content: center; 
+    }
+}
